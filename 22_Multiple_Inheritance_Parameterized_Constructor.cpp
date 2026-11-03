@@ -45,7 +45,6 @@ and percentage.
 #include <iostream>
 #include <string>
 using namespace std;
-
 // Base class 1
 class Student
 {
