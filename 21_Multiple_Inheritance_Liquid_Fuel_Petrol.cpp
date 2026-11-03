@@ -11,7 +11,7 @@ SRN           : 01FE24BEC416
 Semester      : 7th Semester
 
 Program Title : Multiple Inheritance Using
-                Liquid, Fuel and Petrol
+                Liquid,Fuel and Petrol
 
 Concept Used:
 - Class and Object
